@@ -45,9 +45,9 @@ Minha diferença é a ponte entre **growth** e **engenharia**: eu entendo campan
 - **Growth:** Meta Ads, Google Ads, funil, landing pages, criativos/ofertas, métricas
 - **Qualidade:** Git, GitHub, Vitest, ESLint, Prettier, documentação e revisão de regressão
 
-## Como eu penso produto
+## Como eu trabalho
 
-Eu gosto de começar pelo problema real:
+Eu começo pelo problema real e transformo isso em uma entrega técnica clara:
 
 1. O que o negócio precisa vender, medir ou destravar?
 2. Onde os dados estão hoje?
@@ -55,7 +55,7 @@ Eu gosto de começar pelo problema real:
 4. O que dá para reaproveitar sem quebrar o que já funciona?
 5. Como validar que a entrega realmente melhorou a operação?
 
-Uso IA todos os dias, mas com critério técnico: leitura de código, contrato de dados, revisão, testes e responsabilidade sobre o resultado.
+Uso IA todos os dias, mas com critério técnico: leio o código, valido contratos de dados, reviso o que foi gerado, testo o fluxo e assumo responsabilidade pelo resultado.
 
 ## Foco atual
 
