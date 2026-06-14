@@ -19,12 +19,13 @@ Minha diferenca e a ponte entre **growth** e **engenharia**: eu entendo campanha
 
 | Projeto | O que mostra | Stack |
 | --- | --- | --- |
-| `growth-ops-dashboard` | Ads, funil, metricas, CAC, ROAS, conversao e dashboard executivo | React, TypeScript, dados |
-| `ecommerce-ops-nextjs-supabase` | E-commerce operacional com catalogo, pedidos e base de admin | Next.js, Supabase, TypeScript |
-| `ranking-comercial-v4` | Ranking comercial com normalizacao de planilha e painel em tempo real | React, TypeScript, Cloudflare |
-| `automation-blueprints-n8n-whatsapp` | Blueprints seguros de automacao com n8n, CRM e WhatsApp | n8n, webhooks, Evolution API |
-| `commerce-mcp-server` | Servidor MCP para agentes operarem catalogo/pedidos de e-commerce | Node.js, TypeScript, MCP |
-| `ai-product-analysis-app` | Produto com IA aplicada, API e resposta estruturada | TypeScript, API, IA |
+| [`growth-ops-dashboard`](https://github.com/aleayrees-com/growth-ops-dashboard) | Ads, funil, metricas, CAC, ROAS, conversao e dashboard executivo | TypeScript, dados |
+| [`conexao-teste`](https://github.com/aleayrees-com/conexao-teste) | E-commerce operacional com catalogo, pedidos, admin e checkout via WhatsApp | Next.js, Supabase, TypeScript |
+| [`ranking-comercial-v4`](https://github.com/aleayrees-com/ranking-comercial-v4) | Ranking comercial com normalizacao de planilha e painel em tempo real | React, TypeScript, Cloudflare |
+| [`automation-blueprints-n8n-whatsapp`](https://github.com/aleayrees-com/automation-blueprints-n8n-whatsapp) | Blueprints seguros de automacao com n8n, CRM e WhatsApp | n8n, webhooks, Evolution API |
+| [`commerce-mcp-server`](https://github.com/aleayrees-com/commerce-mcp-server) | Servidor MCP para agentes operarem catalogo/pedidos de e-commerce | Node.js, TypeScript, MCP |
+| [`ai-product-analysis-app`](https://github.com/aleayrees-com/ai-product-analysis-app) | Produto com IA aplicada, API e resposta estruturada | TypeScript, API, IA |
+| [`stomperayres-foot-controller`](https://github.com/aleayrees-com/stomperayres-foot-controller) | Controlador/foot display para Ableton, MIDI, tap tempo e C++ | JavaScript, C++, hardware |
 
 ## Stack principal
 
@@ -55,4 +56,4 @@ Uso IA todos os dias, mas com criterio tecnico: leitura de codigo, contrato de d
 
 ---
 
-> Repositorios pinados contam a historia completa: growth, e-commerce, dados, automacao, IA e ferramentas para agentes.
+> Repositorios pinados contam a historia completa: growth, e-commerce, dados, automacao, IA, hardware e ferramentas para agentes.
