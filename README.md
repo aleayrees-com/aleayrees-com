@@ -27,6 +27,15 @@ Minha diferença é a ponte entre **growth** e **engenharia**: eu entendo campan
 | [`ai-product-analysis-app`](https://github.com/aleayrees-com/ai-product-analysis-app) | Produto com IA aplicada, API e resposta estruturada | TypeScript, API, IA |
 | [`stomperayres-foot-controller`](https://github.com/aleayrees-com/stomperayres-foot-controller) | Controlador/foot display para Ableton, MIDI, tap tempo e C++ | JavaScript, C++, hardware |
 
+## Labs profissionais
+
+| Lab | Por que existe |
+| --- | --- |
+| [`ats-resume-analyzer`](https://github.com/aleayrees-com/ats-resume-analyzer) | Analisar aderência entre currículo e vaga, com foco em ATS/Gupy e palavras-chave reais. |
+| [`n8n-workflow-quality-gate`](https://github.com/aleayrees-com/n8n-workflow-quality-gate) | Validar workflows n8n antes de produção, com checks de webhook, segredo e operação. |
+| [`supabase-rls-policy-lab`](https://github.com/aleayrees-com/supabase-rls-policy-lab) | Demonstrar Supabase RLS, multi-tenant e regra de acesso segura. |
+| [`job-application-tracker`](https://github.com/aleayrees-com/job-application-tracker) | Modelar pipeline de candidaturas, follow-ups e prioridade de vagas. |
+
 ## Stack principal
 
 - **Frontend:** React, Next.js, Vite, TypeScript, HTML, CSS, Tailwind
